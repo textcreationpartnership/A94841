@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tryal of Edward Fitz-Harris, who was convicted at the Kings bench-bar in Westminster-Hall On the ninth of this instant June, 1681. For high treason, in conspiring the death of the King. And by several treasonable practices to subvert the government, with the several sercumstances that attended his tryal. As also the tryal of Oliver Plunket titular Arch Bishop of Dubling, who was tryed at the Kings bench-bar, and there found guilty of high treason the eighth instant.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94841</idno>
+            <idno type="STC">Wing T2186</idno>
+            <idno type="STC">ESTC R230438</idno>
+            <idno type="EEBO-CITATION">99896019</idno>
+            <idno type="PROQUEST">99896019</idno>
+            <idno type="VID">153670</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94841)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153670)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2374:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tryal of Edward Fitz-Harris, who was convicted at the Kings bench-bar in Westminster-Hall On the ninth of this instant June, 1681. For high treason, in conspiring the death of the King. And by several treasonable practices to subvert the government, with the several sercumstances that attended his tryal. As also the tryal of Oliver Plunket titular Arch Bishop of Dubling, who was tryed at the Kings bench-bar, and there found guilty of high treason the eighth instant.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Davis,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>[1681]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fitzharris, Edward, 1648?-1681 --  Early works to 1800.</term>
+               <term>Plunket, Oliver, --  Saint, 1629-1681 --  Early works to 1800.</term>
+               <term>Trials (Treason) --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:153670:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 40 -->
+            <head>THE TRYAL OF Edward Fitz-Harris, WHO Was Convicted at the Kings Bench-Bar in <hi>WESTMINSTER-HALL.</hi>
+            </head>
+            <head type="sub">ON The ninth of this Inſtant <hi>June,</hi> 1681. For High Treaſon, in conſpiring the Death of the King. And by ſeveral Treaſonable practices to ſubvert the Govern<g ref="char:EOLhyphen"/>ment, with the ſeveral Sercumſtances that attended his Tryal. As alſo the Tryal of <hi>Oliver Plunket</hi> Titular Arch Biſhop of <hi>Dubling,</hi> who was Tryed at the Kings Bench-Bar, and there found guilty of High Treaſon the eighth Inſtant.</head>
+            <p>
+               <hi>EDward Fitz Harris</hi> being brought to the Kings Bench-Bar, the laſt Term where his Indictment for High Treaſon, being Read he pleaded by his Counſel to the Juriſdiction of the Court; alledging that he ſtood Impeached by the Houſe of Commons, and there<g ref="char:EOLhyphen"/>fore could not be Tryed in any Inferiour Court, as likewiſe that there was a Record of his Impeachment in the Houſe of Lords. But upon Inquiry that was found a miſtake, ſo that notwithſtanding the many and tedious objections his Counſel made, againſt his being Tryed, after the Kings Counſel had Learnedly anſwered each Objection; And Mr. <hi>Atturney General</hi> demurred to his Plea, the Court thought fit
+<pb n="2" facs="tcp:153670:2"/>
+               <!-- PDF PAGE 41 -->to over rule the ſame, and Order him to prepare for his Tryal, as this day which he no ways neglected, but ſum<g ref="char:EOLhyphen"/>moned his witneſſes, and took all convenient Inſtructions having had as fair a time allowed him as he could wiſh. So that none can Object that he was Tryed without mature deliberation. So that according to appointment he was brought to his Tryal this day, from the <hi>Tower</hi> by water guarded very ſtrongly, and being brought to the Bar after the Jury were ſworn, the Court proceeded and his Indict<g ref="char:EOLhyphen"/>ment being Read which contained many horrid Treaſons againſt his Moſt Sacred Majeſty. It being drawn from a Seditious and Treaſonable <hi>Libel;</hi> Entituled the <hi>True Eng<g ref="char:EOLhyphen"/>lish man,</hi> ſpeaking plain <hi>Engliſh</hi> which the Priſoner gave Mr. <hi>Everard</hi> Inſtructions how to draw and write a good part of it, with his own hands as was atteſted upon Oath by him in Court. The Indictment was ſpecified according to that of the <hi>Libel,</hi> wherein was contained ſuch Treaſons and Re<g ref="char:EOLhyphen"/>bellious Practices as are not convenient to be mentioned as to particulars, but in general it was to render His Majeſty deteſtable to his Subjects, to ſtir up jealouſies and fears a<g ref="char:EOLhyphen"/>mongſt them, of arbitrary Government and introduction of Popery to raiſe a univerſal Rebellion, which ſhould be carried on under the notion of the Deſenters. And then in the general confuſion they deſigned, that the <hi>French</hi> King ſhould Land an Army, and ſwallow us up in a moment. So that the whole Foundation of the Proteſtant Goverment ſhould be overturned, and theſe Kingdoms be reduced under th<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Tyranny of <hi>Papiſts</hi> and <hi>Popery.</hi> Theſe were his practi<gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and in order to putting them in Execution about the 21 <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Feb.</hi> laſt he came to Mr. <hi>Everards</hi> Chamber in <hi>Grays I<gap reason="illegible: damage" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> and began to ſound how he ſtood affected, he having h<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſome ſmall knowledg of him in the <hi>French</hi> Kings Servi<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> grew the more familiar, telling him that he had heard h<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hardly he had been uſed, ſince he had adhered to the P<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>teſtant intreſt, but that if he would ſtand to the Catholi<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he ſhould not only have a conſiderable Sum of Mony but be advanced to great preferment; the which Mr. <hi>Everard</hi>
+               <pb n="3" facs="tcp:153670:2"/>
+               <!-- PDF PAGE 41 -->ſeemingly conſented too. Then began he to talk of draw<g ref="char:EOLhyphen"/>ing up the pernicious <hi>Libel,</hi> which <hi>Libel</hi> he told Mr. <hi>Everard</hi> was to be put into the pocket, not only of ſeveral Worthy Proteſtant Lords, but into ſeveral Citizens and others, and then he would have Villans ready to detect them, and ſwear againſt them<g ref="char:punc">▪</g> with ſeveral other Treaſonable deſigns.</p>
+            <p>And further he would have had Mr. <hi>Everard</hi> the witneſs againſt him to have gone to the Citizens and to have procured them to make an Addreſs to the Parliament, and offer to ſtand by them with their lives and fortunes, and to offer them ſeveral Hundred Thouſand Pounds for the ſecuring their Liberties and Property, which he was to inſinuate were in eminent danger to riſe, and not to disband themſelves till they had accompliſhed their deſigns, or words to that effect. And further he told him, that the <hi>French</hi> Embaſſadours Confeſſour was chiefly concerned in it, and that the Embaſſadour had daily notice given him what was done in <hi>Par<g ref="char:EOLhyphen"/>liament</hi> by ſome that did adhere to the <hi>French</hi> Intereſt: At theſe notorious Treaſons Mr. <hi>Everard</hi> was ſomewhat ſtartled, yet hid his reſentments, reſolving to find out the depth of the deſign, if poſſible; whereupon he appointed him a day to come for the Li<g ref="char:EOLhyphen"/>bel before mentioned, and in the mean while he acquainted ſoveral worthy Gentlemen what had paſſed, amongſt which were Sir <hi>William Waller,</hi> and Mr. <hi>Smith</hi> one of the Kings Evidence, who at ſeveral times he conveyed into private places to overhear what diſcourſe paſ<g ref="char:EOLhyphen"/>ſed between him and the Priſoner: The firſt was Mr. <hi>Smith,</hi> who gave his Evidence that about the latter end of <hi>February.</hi> 1681. when <hi>Fitzharris</hi> was there, he being in a private Cloſet, through a hole made for that purpoſe, not only ſaw, ſo as perfectly to know him a<g ref="char:EOLhyphen"/>gain, but heard him diſcourſe about the horrid conſpiracy or villanous deſign, and heard Mr. <hi>Everard</hi> ſay when they were diſcourſing about the Libel, that it was a Treaſon and horrid deſign, and he did not think it ſafe, to which <hi>Fitzharris</hi> replied, that the more Treaſon the better, and he was as ſafe as himſelf, for he was more involved in it than Mr. <hi>Everard,</hi> for he had given his hand for it: And further Mr. <hi>Everard</hi> ſaid, that he told him as ſoon as he had writ the Papers he ſhould have 40 Guinies, and become a Pentioner to the <hi>French</hi> King, and have ſome Thouſands of Crowns, extolling greatly the Liberality of that Prince, ſaying, that he never ſpared his money upon ſuch occaſions.</p>
+            <p>Sir <hi>William Waller</hi> being ſworn, did likewiſe teſtifie that Mr. <hi>Eve<g ref="char:EOLhyphen"/>rard</hi> ſending a Letter to him to deſire him to come to him, but he ſcru<g ref="char:EOLhyphen"/>pled it at firſt, as not knowing what the intention of it might be, but upon mature deliberation, and out of a zeal to ſerve his King and Country, he went, and after ſome time was conveyed by Mr. <hi>Everard</hi>
+               <pb n="4" facs="tcp:153670:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 42 -->into a private Room, where through a crevis, and a ſlit in the Hang<g ref="char:EOLhyphen"/>ings, he could diſcern the Priſoner: And if Mr. <hi>Everard</hi> brought him the Papers, which after he had peruſed, he gave them a private mark to know them again, and that he heard the Priſoner diſcourſe after his uſual manner, and ſaw him make ſeveral alterations in the Papers, telling Mr. <hi>Everard</hi> he ſhould have a good reward, but at that time named no certain Summ, after this happy diſcovery of ſo horrid a vil<g ref="char:EOLhyphen"/>lany, he was apprehended.</p>
+            <p>And upon examination confeſſed a treaſonable Paper to be his hand<g ref="char:EOLhyphen"/>writing; there were ſeveral other Witneſſes, but the worthy Gentle<g ref="char:EOLhyphen"/>men before mentioned were the moſt material.</p>
+            <p>To theſe home Treaſons ſo poſitively ſworn againſt him, he rather ſtrove to juſtifie himſelf, by reflecting upon, not only his Majeſty, but ſeveral other Perſons of Honour, even in the face of the Court, and turning his Majeſties charitable benevolence towards him, to evil conſtructions, to the deteſtation of all good Subjects that heard him aggravate his Villanies, he called ſeveral Perſons of Honour to teſtifie on his behalf, but for the moſt part their Teſtimonies were rather againſt him than for him, ſo that after the Kings counſel had ſummo<g ref="char:EOLhyphen"/>ned up the Evidence, and declared the nature of ſo heinous a Crime; the Court proceeds to give the Jury their Charge, and having ſatisfied them in ſome ſcruples by them objected, they went out, and after half an Hours debate brought him in Guilty of High Treaſon, at which there was a general Hum throughout the Court.</p>
+            <p>ON the <hi>Eighth</hi> of this inſtant, <hi>Oliver Plunket</hi> Titular Arch-Biſhop of <hi>Dublin,</hi> was brought to his Tryal, where it was proved againſt him, that he held Correſpondence with the <hi>French</hi> Kings Confeſſor, and de<g ref="char:EOLhyphen"/>ſigned to bring in a <hi>French</hi> power to ſubdue that Kingdom, to Levy War, and raiſe an Army, in order to which he had made great Gather<g ref="char:EOLhyphen"/>ings of Moneys, and given out Commiſſions, deſigning to betray ſeve<g ref="char:EOLhyphen"/>ral Important Landing-places to the <hi>French,</hi> of which Treaſonable pra<g ref="char:EOLhyphen"/>ctices he was Convicted, &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Thomas Davis.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
